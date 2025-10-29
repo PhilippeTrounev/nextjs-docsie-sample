@@ -229,7 +229,7 @@ This example uses Next.js 15 with the App Router, demonstrating:
 
 - **Discord**: [Join our community](https://discord.gg/rptfXQnq)
 - **Email**: hello@docsie.io
-- **Documentation**: [docs.docsie.io](https://docs.docsie.io)
+- **Documentation**: [help.docsie.io](https://help.docsie.io)
 
 ## 📄 License
 
